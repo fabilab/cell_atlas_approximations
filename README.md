@@ -17,6 +17,9 @@ The code is structured in separate repos:
   <img src="https://raw.githubusercontent.com/fabilab/cell_atlas_approximations/main/figures/figure_HI.png" width="300" height="300">
 </a>
 </br>
+<a href="https://github.com/fabilab/cell_atlas_approximations_disease_compression">
+  <img src="https://raw.githubusercontent.com/fabilab/cell_atlas_approximations/main/figures/figure_disease_Approximation.png" width="300" height="300">
+</a>
 <a href="https://github.com/fabilab/cell_atlas_approximations_disease_API">
   <img src="https://raw.githubusercontent.com/fabilab/cell_atlas_approximations/main/figures/figure_disease_API.png" width="300" height="300">
 </a>
