@@ -17,6 +17,15 @@ The code is structured in separate repos:
   <img src="https://raw.githubusercontent.com/fabilab/cell_atlas_approximations/main/figures/figure_HI.png" width="300" height="300">
 </a>
 </br>
+<a href="https://github.com/fabilab/scquill">
+  <img src="https://raw.githubusercontent.com/fabilab/cell_atlas_approximations/main/figures/figure_scquill.png" width="300" height="300">
+</a>
+<a href="https://github.com/iosonofabio/SATURN">
+  <img src="https://raw.githubusercontent.com/fabilab/cell_atlas_approximations/main/figures/figure_SATURN-xfer.png" width="300" height="300">
+</a>
+
+Moreover, we are working on two additional repos:
+
 <a href="https://github.com/fabilab/cell_atlas_approximations_disease_compression">
   <img src="https://raw.githubusercontent.com/fabilab/cell_atlas_approximations/main/figures/figure_disease_Approximation.png" width="300" height="300">
 </a>
@@ -25,7 +34,7 @@ The code is structured in separate repos:
 </a>
 
 There are two main research directions:
-- Cell atlases of healthy organisms across species
+- Cell atlases of healthy organisms across one billion years of evolution
 - Single cell data from patients with diseases
 
 The repos links for the healthy cell atlases are:
@@ -33,6 +42,8 @@ The repos links for the healthy cell atlases are:
 - **API**: https://github.com/fabilab/cell_atlas_approximations_API
 - **Natural Language Processing (NLP)**: https://github.com/fabilab/cell_atlas_approximations_NLP
 - **Human Interface**: https://github.com/fabilab/cell_atlas_approximations_HI
+- **scquill** (compress arbitrary data sets): https://github.com/fabilab/scquill
+- **SATURN-xfer** (transfer learning): https://github.com/iosonofabio/SATURN (this repo is a fork of SATURN)
 
 The repos links for the disease cell atlases are:
 - **Disease approximation**: https://github.com/fabilab/cell_atlas_approximations_disease_compression
