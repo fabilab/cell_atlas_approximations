@@ -23,6 +23,10 @@ The code is structured in separate repos:
 <a href="https://github.com/iosonofabio/SATURN">
   <img src="https://raw.githubusercontent.com/fabilab/cell_atlas_approximations/main/figures/figure_SATURN-xfer.png" width="300" height="300">
 </a>
+</br>
+<a href="https://github.com/iosonofabio/cell_atlas_approximations_analysis">
+  <img src="https://raw.githubusercontent.com/fabilab/cell_atlas_approximations/main/figures/figure_analysis.png" width="300" height="300">
+</a>
 
 Moreover, we are working on two additional repos:
 
@@ -44,6 +48,7 @@ The repos links for the healthy cell atlases are:
 - **Human Interface**: https://github.com/fabilab/cell_atlas_approximations_HI
 - **scquill** (compress arbitrary data sets): https://github.com/fabilab/scquill
 - **SATURN-xfer** (transfer learning): https://github.com/iosonofabio/SATURN (this repo is a fork of SATURN)
+- **Analysis (paper)**: https://github.com/fabilab/cell_atlas_approximations_analysis
 
 The repos links for the disease cell atlases are:
 - **Disease approximation**: https://github.com/fabilab/cell_atlas_approximations_disease_compression
